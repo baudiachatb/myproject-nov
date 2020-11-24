@@ -1,0 +1,10 @@
+{
+  "id": 0,
+  "username": "",
+  "password": "",
+  "email": "",
+  "enabled": 0,
+  "accountNonExpired": 0,
+  "credentialsNonExpired": 0,
+  "accountNonLocked": 0
+}
